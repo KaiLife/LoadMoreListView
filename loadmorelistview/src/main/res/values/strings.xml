@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LoadMoreListView</string>
+
+    <string name="x_list_view_footer_text_no_data_default_text">没有更多数据</string>
+
+    <color name="x_list_view_footer_bg">#f0f0f0</color>
+    <color name="x_list_view_footer_text">#aaaaaa</color>
+</resources>
