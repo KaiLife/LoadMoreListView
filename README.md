@@ -2,9 +2,10 @@
 这个库能让你listview更加健壮，为她增加了上拉“加载更多”功能，原来上拉刷新如此的简单！
 
 # 效果展示
-
+![image](https://github.com/huruiyu/LoadMoreListView/blob/master/screenshot/screenshot.gif)
 
 # gradle
+敬请期待！
 
 # 使用简介
 
