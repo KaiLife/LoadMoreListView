@@ -1,5 +1,5 @@
 # LoadMoreListView
-这个库能让你listview更加健壮，为她增加了上拉“加载更多”功能，原来上拉刷新如此的简单！
+这个库能让你listview更加健壮，增加了上拉“加载更多”功能，原来上拉刷新如此的简单！
 
 # 效果展示
 ![image](https://github.com/huruiyu/LoadMoreListView/blob/master/screenshot/screenshot.gif)
@@ -17,7 +17,7 @@
    
    doneMore/noMoreData 是来告知系统已完成数据加载，准备进行下次加载更多操作 或 停用listview加载更多  PS：noMoreData("自定义语句")
 
-3、已上方法均在主线程中使用,别忘记实现 OnLoadMoreListViewListener 接口  
+3、当然别忘记实现 OnLoadMoreListViewListener 接口  
    PS：您可以在任何时候再次激活加载更多功能，就算你调用了onMoredata，activateMoreRefresh也会被激活
    
 4、本库实现简单，大神勿喷，新手建议下载后阅读源码和Demo，在根据自己的需求加以修改！
